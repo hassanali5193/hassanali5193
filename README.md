@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Hassan
 
-<!--
-**hassanali5193/hassanali5193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AWS-certified junior cloud engineer focused on building practical, real-world infrastructure using AWS, Terraform, and CI/CD.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Cloud:** AWS (S3, Lambda, EC2, RDS, DynamoDB)
+- **IaC & CI/CD:** Terraform, GitHub Actions
+- **Scripting:** Python, Bash
+- **Other:** Linux, IAM, VPC, CloudFront
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projects
+
+### 🟢 Cloud Resume Challenge
+- Static website with S3, Route 53, CloudFront
+- Lambda visitor counter with API Gateway + DynamoDB
+- Automated with Terraform + GitHub Actions
+[GitHub Repo](link) | [Live Site](link)
+
+### 🟣 Multi-Tier Web App on AWS
+- 3-tier architecture: EC2, RDS, Load Balancer
+- Provisioned using CloudFormation
+- High availability setup
+[GitHub Repo](link)
+
+## 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/hassanali07/) | [Email](mailto:hassanali5193@gmail.com)
